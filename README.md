@@ -1,11 +1,24 @@
-# Web Echo SEA / SEO Agentur
+# WebEcho SEA / SEO Agentur
 
 **SEA und SEO-Agentur aus der Schweiz**  
 Wir helfen KMU und mittelständischen Unternehmen im DACH-Raum, online sichtbar zu werden — mit messbarer SEA/SEO-Strategie.
 
 🌐 Website: [web-echo.ch](https://web-echo.ch)  
-📍 Schweiz — DACH-weit tätig  
+📍 Schweiz — Frikartweg 4, 3006 Bern. DACH-weit tätig  
 🏢 Eingetragen als: Simple Online Marketing GmbH
+
+WebEcho bereitet deinem digitalen Spuk ein Ende. Wir bringen dir Sichtbarkeit in den Suchmaschinen für dein KMU/NPO und sorgen dafür, dass du von deiner Zielgruppe auf Google ChatGPT und Co. endlich gefunden wirst.
+
+Sei kein Geist
+
+WebEcho ist eine Schweizer Suchmaschinenmarketing-Agentur (SEO, GEO, SEA und Content) mit Sitz in Bern. 
+
+Sie unterstützt Unternehmen und Non-Profit-Organisationen dabei, im Internet besser gefunden zu werden. 
+
+Das bietet WebEcho an: 
+Suchmaschinenoptimierung (SEO): Optimierung der Website, damit sie bei Google, ChatGPT und co. besser rankt. 
+Suchmaschinenwerbung (SEA): Schalten von zielgerichteten Google Ads-Kampagnen. 
+Content-Strategie & Storytelling: Entwicklung von zielgruppenrelevanten Inhalten (z.B. Texte, Konzepte), um die Bekanntheit zu steigern.
 
 ---
 
